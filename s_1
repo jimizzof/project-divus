@@ -1,0 +1,9 @@
+ main = true
+while true do
+ s = math.random(128)
+   print (s)
+  main = false
+ end
+
+main = true
+return 
